@@ -1,6 +1,6 @@
 # react-with-fullpage
 
-This is an tempolate of [fullpage.js](http://alvarotrigo.com/fullPage/) in react.
+a template of [fullpage.js](http://alvarotrigo.com/fullPage/) in react.
 
 # Usage
 
@@ -14,4 +14,4 @@ This is an tempolate of [fullpage.js](http://alvarotrigo.com/fullPage/) in react
 # screenshots
 
 
-![](./react-fullpage.gif)
+![](http://7xoboh.com1.z0.glb.clouddn.com/react-fullpage.gif)
