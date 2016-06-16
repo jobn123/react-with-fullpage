@@ -19,7 +19,14 @@
     	a {
     		text-decoration: none;
     		padding: 9px 18px;
-    		display: block;	
+    		display: block;
+            color: #000;
+
+            &:hover {
+                background: #fff;
+                -webkit-border-radius: 10px;
+                border-radius: 10px;
+            }
     	}
 
     	&:active {
@@ -36,5 +43,17 @@
         &:hover {
             color: #fff
         }
+
+        &.active {
+           background: rgba(65, 65, 65, 0.5);
+        }
     }
+
+    .active {
+           background: rgba(65, 65, 65, 0.5);
+
+           a {
+            color: #fff
+           }
+        }
 }
