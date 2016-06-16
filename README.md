@@ -14,4 +14,4 @@ This is an tempolate of fullpage.js in react.
 # screenshots
 
 
-![](http://7xoboh.com1.z0.glb.clouddn.com/react-fullpage.gif)
+![](./react-fullpage.gif)
