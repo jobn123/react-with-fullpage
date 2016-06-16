@@ -1,0 +1,40 @@
+#menu {
+	position: fixed;
+    top: 0;
+    left: 0;
+    height: 40px;
+    z-index: 70;
+    width: 100%;
+    margin: 0;
+
+    li {
+    	display: inline-block;
+    	margin: 10px;
+    	color: #000;
+    	background: #fff;
+    	background: rgba(255,255,255,.5);
+    	-webkit-border-radius: 10px;
+    	border-radius: 10px;
+
+    	a {
+    		text-decoration: none;
+    		padding: 9px 18px;
+    		display: block;	
+    	}
+
+    	&:active {
+    		background: rgba(0,0,0,.5);
+    		color: #fff;
+
+    		a{
+    			padding: 9px 18px;
+    			display: block;
+    			color: #fff;
+    		}
+    	}
+
+        &:hover {
+            color: #fff
+        }
+    }
+}
