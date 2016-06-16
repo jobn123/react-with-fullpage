@@ -1,6 +1,6 @@
 # react-with-fullpage
 
-This is an tempolate of fullpage.js in react.
+This is an tempolate of [fullpage.js](http://alvarotrigo.com/fullPage/) in react.
 
 # Usage
 
