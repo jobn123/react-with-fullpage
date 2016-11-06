@@ -7,8 +7,9 @@ class SectionOne extends React.Component {
 		return (
 			<div className="section active" id="section0">
       			<h1>Section One</h1>
+						{/**<img src={require("./1.png")} />*/}
     		</div>
-		) 
+		)
 	}
 }
 
